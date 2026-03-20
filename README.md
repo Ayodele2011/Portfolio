@@ -1,2 +1,2 @@
 Portfolio
-I am a dolution Architect
+I am a Solution Architect
