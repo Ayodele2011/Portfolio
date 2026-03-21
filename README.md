@@ -8,10 +8,10 @@ With a strong interest in cloud technologies and data, I enjoy transforming comp
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
-**- ✅ As a cloud practitioner and Solution Architect, I design and deploy scalable cloud solutions using AWS services such as EC2, S3, RDS, Lambda, and CloudFormation..**
+**- ✅ As a Cloud practitioner and Solution Architect, I design and deploy scalable cloud solutions using AWS services such as EC2, S3, RDS, Lambda, and CloudFormation..**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ As a cloud practitioner and Solution Architect.**
+**- ✅ As a Cloud practitioner and Solution Architect.**
 I build and manage cloud infrastructure with a focus on performance, security, and cost optimization.I ensure cloud security best practices and optimize resource usage to reduce costs.
 
 <!--Section 2: List 3-4 key projects-->
