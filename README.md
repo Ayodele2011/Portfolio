@@ -33,7 +33,7 @@ I build and manage cloud infrastructure with a focus on performance, security, a
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:ayodeleolowolafe54@gmail.com">geoayodele2011@gmail.com</a></td>
+      <td><a href="mailto:ayodeleolowolafe54@gmail.com">ayodeleolowolafe54@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -41,7 +41,7 @@ I build and manage cloud infrastructure with a focus on performance, security, a
     </tr>
     <tr>
       <td>📍</td>
-      <td>Lag, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
