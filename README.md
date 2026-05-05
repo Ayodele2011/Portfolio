@@ -17,9 +17,9 @@ I build and manage cloud infrastructure with a focus on performance, security, a
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS 
 
-*A glimpse of some of the projects I've done.*
-  **- Cloud Security with IAM..**
-  **- Hosting A static Website on S3. .**
+## A glimpse of some of the projects I've done.##
+  **- Cloud Security with IAM.**
+  **- Hosting A static Website on S3.**
 
 **.**
 ![image]()
